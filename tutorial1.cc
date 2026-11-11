@@ -1,5 +1,5 @@
 // Research Project: Hadronic Cosmic Ray Showers
-// Principal Investigatot: Ashmi A. Chamoli
+// Principal Investigator: Ashmi A. Chamoli
 // Date: May 3,2026
 // Objective: Simulating 13 Tev Proton -Nitrogen imteractions to investigate muons in UHECR atmospheric showers.
 
